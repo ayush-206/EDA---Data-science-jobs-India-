@@ -14,3 +14,19 @@ As i said earlier, there are 12000 rows in our dataset out of which there are 65
   <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/932c43603f283f27b2ab85e74241809fbccc21bb/total%20job%20roles.PNG" alt="total job roles" title="total job roles">
 </p>
 So, I have find top 5 jobs in accordance with the more number of job openings and here i got these 5 designations.
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/Top%205%20jobs.PNG" alt="top jobs roles" title="top jobs roles">
+</p>
+<h1>Top jobs along with their required skills</h1>
+So far, i have found the top jobs that has a huge demand in the market. Now i want to know that what skills are required to grab that job. Like - I want to become a data analyst. So, what skills do i learn to become fit for that job role.<br>
+</br>
+Therefore, I have made the sunburst chart whose inner circle is divided into job roles and outer circle is containing a skills required for specific job role. You can see the chart below:
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/Top_jobs.PNG" alt="top jobs roles with skills" title="top jobs roles with skills">
+</p>
+<h1>Job openings</h1>
+Now, my next task was to find a number of job openings as per cities. For that, i have created a list of cities then counted the value as per job openings. Further, i removed the duplicate names that was present in our dataset. Lastly, I plotted the graph.
+<p align="center">
+  <img src="" alt="job openings" title="job openings">
+</p>
+
