@@ -38,3 +38,26 @@ According to my analysis, I found that Python, Machine learning, IT skills, SQL,
 <p align="center">
   <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/demanding%20skills.PNG" alt="Demanding skills" title="demanding skills">
 </p>
+<h1>Top companies</h1>
+In our dataset, there are total 3507 different companies are offering jobs.
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/total%20companies.PNG" alt="total companies" title="total companies">
+</p>
+But, I made the table in which you can see top 10 companies with a more number of openings. However, the multinational company accenture is right at the top. Have a look in table below:
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/top%20companies.PNG" alt="top companies" title="top companies">
+</p>
+Additionally, I plotted a sunburst chart again between top companies and job role. So that, viewer get's the easy idea that which company is hiring for which roles.
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/Top_job_providers.PNG" alt="top job provider" title="top job provider">
+</p>
+<h1>Average Job Experience</h1>
+During analyzing the data, I found that the company wants some experience in every job role. They are providing the range of experience(say 2-3 years). So, i found the average of the min. and max. experience for the different job roles and plotted a table.
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/2c79b35124a596b13ff68c61a4c53fe2f8c3b4dd/Average%20min.%20job%20experience.PNG" alt="Average minimum experience" title="Average minimum experience">
+</p><br>
+
+</br>
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/2c79b35124a596b13ff68c61a4c53fe2f8c3b4dd/Average%20max.%20job%20experience.PNG" alt="Average maximum experience" title="Average maximum experience">
+</p>
