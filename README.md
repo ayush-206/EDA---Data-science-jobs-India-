@@ -27,6 +27,14 @@ Therefore, I have made the sunburst chart whose inner circle is divided into job
 <h1>Job openings</h1>
 Now, my next task was to find a number of job openings as per cities. For that, i have created a list of cities then counted the value as per job openings. Further, i removed the duplicate names that was present in our dataset. Lastly, I plotted the graph.
 <p align="center">
-  <img src="" alt="job openings" title="job openings">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/job%20openings.PNG" alt="job openings" title="job openings">
 </p>
-
+Additionally, i made a graph that gives more transparent visuals of job openings in accordance with cities.
+<p align="center">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/jop%20openings%20graph.PNG" alt="job openings graph" title="job openings graph">
+</p>
+<h1>Top demanding skills in data science job</h1>
+According to my analysis, I found that Python, Machine learning, IT skills, SQL, Big data and few more skills has a huge demand in market. Let's have a look below:
+<p align="center">
+  <img src="" alt="Demanding skills" title="demanding skills">
+</p>
