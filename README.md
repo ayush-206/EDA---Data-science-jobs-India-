@@ -11,5 +11,6 @@ This is a first few rows of the dataset in which you can see their are 5 columns
 <h1>Top Jobs</h1>
 As i said earlier, there are 12000 rows in our dataset out of which there are 6563 rows has a unique job roles. In simple words, the data contains total 6563 different job roles.
 <p align="center">
-  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/sample_dataset.PNG" alt="sample dataset" title="sample dataset">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/932c43603f283f27b2ab85e74241809fbccc21bb/total%20job%20roles.PNG" alt="total job roles" title="total job roles">
 </p>
+So, I have find top 5 jobs in accordance with the more number of job openings and here i got these 5 designations.
