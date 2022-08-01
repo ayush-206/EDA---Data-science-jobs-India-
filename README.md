@@ -36,5 +36,5 @@ Additionally, i made a graph that gives more transparent visuals of job openings
 <h1>Top demanding skills in data science job</h1>
 According to my analysis, I found that Python, Machine learning, IT skills, SQL, Big data and few more skills has a huge demand in market. Let's have a look below:
 <p align="center">
-  <img src="" alt="Demanding skills" title="demanding skills">
+  <img src="https://github.com/ayush-206/EDA-Data-science-jobs-India-/blob/main/demanding%20skills.PNG" alt="Demanding skills" title="demanding skills">
 </p>
